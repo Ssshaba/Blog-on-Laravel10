@@ -1,2 +1,2 @@
-# blog
+# Blog on laravel 10
  
